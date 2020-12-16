@@ -1,0 +1,1 @@
+# scaffolding-ddd-service
